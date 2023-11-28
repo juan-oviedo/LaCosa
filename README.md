@@ -1,7 +1,7 @@
 # La Cosa Card Game
 Welcome to La Cosa, a thrilling card game brought to life in a web version!   
 This is the continuation of a project done for the subject software engineering 1 of the degree in computer science of FAMAF.  
-The base project (final delivery to the professor) made in collaboration with  Gonzalo1313, facundogranado, ferni-alvarado, IvanPonzio, ArmandMC, FranGriguol. Can be found in the first commit: inital commit
+The base project (final delivery to the professor) made in collaboration with  Gonzalo1313, facundogranado, ferni-alvarado, IvanPonzio, ArmandMC and FranGriguol, Can be found in the first commit: inital commit
 
 ## Project Overview
 
